@@ -10,7 +10,7 @@ As a former Product Manager with a four-year background in aligning consumer nee
 Currently an Informatics student at the University of Washington, I'm refining my technical skills to bridge the gap between business strategy and technical implementation.\
 I'm passionate about user-centric design and creating solutions that resonate with users' needs, as demonstrated by the projects hosted in this repository.
 
-🔗 For more details on my professional journey, please visit my [LinkedIn Profile](www.linkedin.com/in/ellakim913).
+🔗 For more details on my professional journey, please visit my [LinkedIn Profile](https://www.linkedin.com/in/ellakim913/).
 
 🤝 Thank you for exploring my work. Should you have any questions or opportunities for collaboration, feel free to reach out.
 
