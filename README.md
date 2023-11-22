@@ -32,6 +32,10 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 **Tech Stack**: Dart, Flutter  
 **Description**: A task-organizing app that assists users in planning out their day-to-day activities efficiently.
 
+### 📊 [R Problem Set Analysis](https://github.com/Ella-Kim913/R-ProblemSet)
+**Tech Stack**: R, tidyverse (dplyr, ggplot2, stringr, tidyr)  
+**Description**: Analyzes flight and Gapminder datasets to validate data integrity, perform statistical analysis, and visually represent data trends and relationships.
+
 ### 🎨 [Character-Custom](https://github.com/Ella-Kim913/Character-Custom) (🚧 Work in Progress)
 **Tech Stack**: VanillaJS, Lottie Images, HTML, CSS  
 **Description**: Front-end project that's currently in development. It will allow users to personalize characters with interactive Lottie animations.
