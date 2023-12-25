@@ -20,11 +20,18 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 **Tech Stack**: Dart, Flutter, MovieDB API  
 **Description**: A mobile application that displays various movie lists and details, allowing users to discover popular, current, and upcoming movies with ease.
 
+### 🎞️ [React Movie](https://github.com/Ella-Kim913/React_Movie)
+**Live App**: [Experience it Here](https://ella-kim913.github.io/React_Movie/)
+**Tech Stack**: React, JavaScript, JSX, CSS, MovieDB API
+**Description**: A dynamic React-based application for movie enthusiasts. It offers a user-friendly interface to browse and search a wide range of movies, featuring detailed views with posters, ratings, genres, and descriptions. Additional functionalities include streaming links and trailer previews.
+
 ### 💻 [Personal Web Page](https://github.com/Ella-Kim913/Ella-Kim913.github.io)
+**Live App**: [Experience it Here]([https://ella-kim913.github.io/React_Movie/](https://ella-kim913.github.io/))
 **Tech Stack**: VanillaJS, HTML, CSS  
 **Description**: A personal webpage featuring dynamic backgrounds, a live clock, inspiring quotes, and a to-do list to manage daily tasks.
 
 ### 🔄 [React Converter](https://github.com/Ella-Kim913/React_Converter)
+**Live App**: [Experience it Here]([[https://ella-kim913.github.io/React_Movie/](https://ella-kim913.github.io/)](https://converteroptions.netlify.app/))
 **Tech Stack:** React, JavaScript, JSX, CSS  
 **Description:** A React-based web application designed for versatile conversions. It covers a range of functionalities from currency and measurement conversion to time zone calculations.
 
