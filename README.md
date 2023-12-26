@@ -16,45 +16,47 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 
 ## My Portfolio of Projects
 
-### 🎬 [MovieApp](https://github.com/Ella-Kim913/movieapp)
+### Mobile Application Development
+
+#### 🎬 [MovieApp](https://github.com/Ella-Kim913/movieapp)
 **Tech Stack**: Dart, Flutter, MovieDB API  
-**Description**: A mobile application that displays various movie lists and details, allowing users to discover popular, current, and upcoming movies with ease.
+*Flutter-based mobile app providing categorized movie listings and details.*
 
-### 🎞️ [React Movie](https://github.com/Ella-Kim913/React_Movie)
-**Live App**: [Experience it Here](https://ella-kim913.github.io/React_Movie/)  
+#### ⏱️ [StudyCounter](https://github.com/Ella-Kim913/StudyCounter)
+**Tech Stack**: Dart, Flutter  
+*Study time management tool built with Flutter.*
+
+#### 🗓️ [PlannerCard](https://github.com/Ella-Kim913/PlannerCard)
+**Tech Stack**: Dart, Flutter  
+*Task organizing app for daily activities, developed using Flutter.*
+
+### Web Application Development
+
+#### 🎞️ [React Movie](https://github.com/Ella-Kim913/React_Movie)
+**Live App**: [View App](https://ella-kim913.github.io/React_Movie/)  
 **Tech Stack**: React, JavaScript, JSX, CSS, MovieDB API  
-**Description**: A dynamic React-based application for movie enthusiasts. It offers a user-friendly interface to browse and search a wide range of movies, featuring detailed views with posters, ratings, genres, and descriptions. Additional functionalities include streaming links and trailer previews.
+*Interactive platform for movie exploration using React.*
 
-### 💻 [Personal Web Page](https://github.com/Ella-Kim913/Ella-Kim913.github.io)
-**Live App**: [Experience it Here](https://ella-kim913.github.io/)  
+#### 💻 [Personal Web Page](https://github.com/Ella-Kim913/Ella-Kim913.github.io)
+**Live App**: [View Page](https://ella-kim913.github.io/)  
 **Tech Stack**: VanillaJS, HTML, CSS  
-**Description**: A personal webpage featuring dynamic backgrounds, a live clock, inspiring quotes, and a to-do list to manage daily tasks.
+*Custom-designed personal dashboard with dynamic features.*
 
-### 🔄 [React Converter](https://github.com/Ella-Kim913/React_Converter)
-**Live App**: [Experience it Here](https://converteroptions.netlify.app/)  
-**Tech Stack:** React, JavaScript, JSX, CSS  
-**Description:** A React-based web application designed for versatile conversions. It covers a range of functionalities from currency and measurement conversion to time zone calculations.
+#### 🔄 [React Converter](https://github.com/Ella-Kim913/React_Converter)
+**Live App**: [Use Converter](https://converteroptions.netlify.app/)  
+**Tech Stack**: React, JavaScript, JSX, CSS  
+*Multi-functional conversion tool designed in React.*
 
-### ⏱️ [StudyCounter](https://github.com/Ella-Kim913/StudyCounter)
-**Tech Stack**: Dart, Flutter  
-**Description**: An application designed to help users monitor and manage their study sessions for better productivity and time management.
+### Data Analysis Projects
 
-### 🗓️ [PlannerCard](https://github.com/Ella-Kim913/PlannerCard)
-**Tech Stack**: Dart, Flutter  
-**Description**: A task-organizing app that assists users in planning out their day-to-day activities efficiently.
-
-### 📊 [R Problem Set Analysis](https://github.com/Ella-Kim913/R-ProblemSet)
+#### 📊 [R Problem Set Analysis](https://github.com/Ella-Kim913/R-ProblemSet)
 **Tech Stack**: R, tidyverse (dplyr, ggplot2, stringr, tidyr)  
-**Description**: Analyzes flight and Gapminder datasets to validate data integrity, perform statistical analysis, and visually represent data trends and relationships.
-
-### 🎨 [Character-Custom](https://github.com/Ella-Kim913/Character-Custom) (🚧 Work in Progress)
-**Tech Stack**: VanillaJS, Lottie Images, HTML, CSS  
-**Description**: Front-end project that's currently in development. It will allow users to personalize characters with interactive Lottie animations.
+*Statistical analysis and visualization project in R.*
 
 ## My Skills
 
 - **Programming Languages**: C, Python, Dart, JavaScript, HTML/CSS, R
-- **Development Tools/Frameworks**: Flutter, Figma, Canva, Git
+- **Development Tools/Frameworks**: React, Flutter, Figma, Canva, Git
 - **Data Analysis and Visualization**: SPSS, Google Analytics, Microsoft Office Specialist Master (Word, PowerPoint, Excel)
 
 Your curiosity is the compass that led you here. Thank you for journeying through my repository. Hope to see you again!
