@@ -32,6 +32,11 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 
 ### Web Application Development
 
+#### 🎞️ [Nwitter Clone](https://github.com/Ella-Kim913/Nwitter-Reloaded)
+**Live App**: [View App](https://nwitter-reloaded-d4b2e.firebaseapp.com/)  
+**Tech Stack**: React, TypeScript, Vite, Firebase, HTML, CSS
+*Real-time social media platform replicating Twitter's core features using React and Firebase*
+
 #### 🎞️ [React Movie](https://github.com/Ella-Kim913/React_Movie)
 **Live App**: [View App](https://ella-kim913.github.io/React_Movie/)  
 **Tech Stack**: React, JavaScript, JSX, CSS, MovieDB API  
