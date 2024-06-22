@@ -65,10 +65,22 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 
 ## My Skills
 
-- **Programming Languages**: C, Python, Dart, JavaScript, HTML/CSS, R
-- **Development Tools/Frameworks**: React, Flutter, Figma, Canva, Git
-- **Data Analysis and Visualization**: SPSS, Google Analytics, Microsoft Office Specialist Master (Word, PowerPoint, Excel)
+### Main Skillsets
+Data Structures and Algorithms, Software Development Lifecycle, Object-Oriented Design, Mobile Development, Computer Science, Computer Engineering
 
-Your curiosity is the compass that led you here. Thank you for journeying through my repository. Hope to see you again!
+### Programming Languages/Frameworks
+Java, JavaScript, TypeScript, Dart, C, Python, SQL, React, Flutter, HTML/CSS, JSON, JSX
+
+### Development Tools
+Git, VS Code, Android Studio, Xcode, Vite, Netlify, REST API, Firebase
+
+### Design/Collaboration
+Jira, Azure DevOps, Miro, Figma, Canva
+
+### Data Analysis/Visualization
+R, SPSS, Google Analytics, Microsoft Office (Word, PowerPoint, Excel - Expert)
+
+
+Thank you for journeying through my repository. Hope to see you again!
 
 
