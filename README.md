@@ -32,6 +32,11 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 
 ### Web Application Development
 
+#### 👗 [Closetify](https://github.com/Ella-Kim913/closetify)
+**Live App**: [View App](https://closetify-361f8.web.app/signin)  
+**Tech Stack**: React, JavaScript, CSS, Firebase (Authentication, Realtime Database, Cloud Storage)  
+*Web application for personalizing outfit data with various tags, browsing and filtering outfits, building outfits on a canvas, and saving them to a database using Firebase for real-time data management and cloud storage.*
+
 #### 🎞️ [Nwitter Clone](https://github.com/Ella-Kim913/Nwitter-Reloaded)
 **Live App**: [View App](https://nwitter-reloaded-d4b2e.firebaseapp.com/)  
 **Tech Stack**: React, TypeScript, Vite, Firebase, HTML, CSS
