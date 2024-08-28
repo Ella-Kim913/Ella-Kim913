@@ -1,9 +1,5 @@
 # Ella Kim's Project Portfolio 🌟
 
-## Welcome to My World of Code!
-
-🚀 Dive into my digital dossier where creativity meets code. Here, you'll find a curated list of projects that I've developed, demonstrating my technical skills in software development and a keen eye for user-centric design.
-
 👩‍💻 **About Me - Bridging Gaps with Bytes**
 
 As a former Product Manager with a four-year background in aligning consumer needs with product benefits, I've redirected my career path toward software engineering.\
@@ -16,11 +12,22 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 
 ## My Portfolio of Projects
 
-### Mobile Application Development
+### Featured Projects
+
+#### 📄 [ChatPDF Web App](https://github.com/Ella-Kim913/pdfChat)
+**Tech Stack**: Python, Streamlit, HuggingFace, FAISS  
+*A web application that processes and analyzes text from multiple PDFs using LLM, providing users with an interactive way to engage with their documents.*
+
+#### 👗 [Closetify](https://github.com/Ella-Kim913/closetify)
+**Live App**: [View App](https://closetify-361f8.web.app/signin)  
+**Tech Stack**: React, JavaScript, CSS, Firebase (Authentication, Realtime Database, Cloud Storage)  
+*Web application for personalizing outfit data with various tags, browsing and filtering outfits, building outfits on a canvas, and saving them to a database using Firebase for real-time data management and cloud storage.*
 
 #### 🎬 [MovieApp](https://github.com/Ella-Kim913/movieapp)
 **Tech Stack**: Dart, Flutter, MovieDB API  
 *Flutter-based mobile app providing categorized movie listings and details.*
+
+### Mobile Application Development
 
 #### ⏱️ [StudyCounter](https://github.com/Ella-Kim913/StudyCounter)
 **Tech Stack**: Dart, Flutter  
@@ -32,19 +39,14 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 
 ### Web Application Development
 
-#### 👗 [Closetify](https://github.com/Ella-Kim913/closetify)
-**Live App**: [View App](https://closetify-361f8.web.app/signin)  
-**Tech Stack**: React, JavaScript, CSS, Firebase (Authentication, Realtime Database, Cloud Storage)  
-*Web application for personalizing outfit data with various tags, browsing and filtering outfits, building outfits on a canvas, and saving them to a database using Firebase for real-time data management and cloud storage.*
-
 #### 🎞️ [Nwitter Clone](https://github.com/Ella-Kim913/Nwitter-Reloaded)
 **Live App**: [View App](https://nwitter-reloaded-d4b2e.firebaseapp.com/)  
-**Tech Stack**: React, TypeScript, Vite, Firebase, HTML, CSS
-*Real-time social media platform replicating Twitter's core features using React and Firebase*
+**Tech Stack**: React, TypeScript, Vite, Firebase, HTML, CSS  
+*Real-time social media platform replicating Twitter's core features using React and Firebase.*
 
 #### 🎞️ [React Movie](https://github.com/Ella-Kim913/React_Movie)
 **Live App**: [View App](https://ella-kim913.github.io/React_Movie/)  
-**Tech Stack**: React, JavaScript, JSX, CSS, MovieDB API  
+**Tech Stack**: React, JavaScript, JSX, CSS  
 *Interactive platform for movie exploration using React.*
 
 #### 💻 [Personal Web Page](https://github.com/Ella-Kim913/Ella-Kim913.github.io)
@@ -80,7 +82,6 @@ Jira, Azure DevOps, Miro, Figma, Canva
 ### Data Analysis/Visualization
 R, SPSS, Google Analytics, Microsoft Office (Word, PowerPoint, Excel - Expert)
 
+---
 
 Thank you for journeying through my repository. Hope to see you again!
-
-
