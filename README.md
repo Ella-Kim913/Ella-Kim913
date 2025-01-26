@@ -14,6 +14,11 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 
 ### Featured Projects
 
+#### 📄 [AltVision](https://github.com/Ella-Kim913/Hackathon-wi25)
+**Video Demo**: [View Demo](https://drive.google.com/file/d/1id3jnPgUOMXm6BNQX9rwDgT-p8w8CxFl/view?usp=drive_link)  
+**Tech Stack**: JavaScript, HTML, CSS, Azure VisionAI, Azure openAI 3.5
+*A Chrome extension that uses AI to automatically generate and inject alt text for images, enhancing web accessibility for screen reader users.*
+
 #### 📄 [ChatPDF Web App](https://github.com/Ella-Kim913/pdfChat)
 **Tech Stack**: Python, Streamlit, HuggingFace, FAISS  
 *A web application that processes and analyzes text from multiple PDFs using LLM, providing users with an interactive way to engage with their documents.*
@@ -71,7 +76,7 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 Data Structures and Algorithms, Software Development Lifecycle, Object-Oriented Design, Mobile Development, Computer Science, Computer Engineering
 
 ### Programming Languages/Frameworks
-Java, JavaScript, TypeScript, Dart, C, Python, SQL, React, Flutter, HTML/CSS, JSON, JSX
+Java, JavaScript, Dart, React, Node.js, Python, SQL, React, Flutter, HTML/CSS, JSON, JSX
 
 ### Development Tools
 Git, VS Code, Android Studio, Xcode, Vite, Netlify, REST API, Firebase
