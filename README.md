@@ -14,7 +14,7 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 
 ### Featured Projects
 
-#### :desktop: [AltVision](https://github.com/Ella-Kim913/Hackathon-wi25)
+#### 🖼️ [AltVision](https://github.com/Ella-Kim913/Hackathon-wi25)
 **Video Demo**: [View Demo](https://drive.google.com/file/d/1id3jnPgUOMXm6BNQX9rwDgT-p8w8CxFl/view?usp=drive_link)  
 **Tech Stack**: JavaScript, HTML, CSS, Azure VisionAI, Azure openAI 3.5
 *A Chrome extension that uses AI to automatically generate and inject alt text for images, enhancing web accessibility for screen reader users.*
