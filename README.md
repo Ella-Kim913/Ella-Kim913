@@ -19,6 +19,13 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 **Tech Stack**: JavaScript, HTML, CSS, Azure VisionAI, Azure openAI 3.5\
 *A Chrome extension that uses AI to automatically generate and inject alt text for images, enhancing web accessibility for screen reader users.*
 
+
+#### 💪 [UW Service](https://github.com/Ella-Kim913/uwservice)
+**Video Demo**: [View Demo](https://youtu.be/6-pVhk3WLOY)\
+**Live App**: [View App](https://uwservices-backend.onrender.com)\
+**Tech Stack**: NodeJS, ReactJS, MongoDB, HTML, CSS\
+*A web application that allows students to post and manage services, as well as discover and leave reviews for services offered by others.*
+
 #### 📄 [ChatPDF Web App](https://github.com/Ella-Kim913/pdfChat)
 **Tech Stack**: Python, Streamlit, HuggingFace, FAISS  
 *A web application that processes and analyzes text from multiple PDFs using LLM, providing users with an interactive way to engage with their documents.*
