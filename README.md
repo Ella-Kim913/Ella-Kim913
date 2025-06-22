@@ -14,7 +14,7 @@ I'm passionate about user-centric design and creating solutions that resonate wi
 
 ### Featured Projects
 
-#### ✈️ Kaona – AI Travel Assistant (Sponsored by SAP Concur)
+#### ✈️ Kaona – AI Travel Assistant
 **Video Demo**: [Watch Demo](https://youtu.be/L7GPQBLD7HA?feature=shared)  
 **Tech Stack**: Node.js, React.js, Expo Go, OpenAI, Firebase  
 *A mobile application that streamlines the flight interruption problem-solving process using AI, helping business travelers quickly find alternative flights and minimize disruption with minimal user effort.*
